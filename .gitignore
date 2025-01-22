@@ -1,0 +1,17 @@
+# Ignore everything by default
+*
+
+# Un-ignore directories to allow tracking files inside them
+!*/
+
+# Un-ignore markdown files
+!*.md
+
+# Un-ignore all .c files
+!*.c
+
+# Un-ignore all .h files
+!*.h
+
+# Un-ignore the .gitignore file itself
+!.gitignore
